@@ -1,0 +1,143 @@
+html, body {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  width: 100%;
+}
+
+.hr {
+  height: 4px;
+  width: 100%;
+  margin: 10px auto;
+  border-radius: 2px;
+}
+
+.border-box {
+  box-sizing: border-box;
+}
+
+.pl10 {
+  padding-left: 10px;
+}
+
+.pr10 {
+  padding-right: 10px;
+}
+
+.pl25 {
+  padding-left: 25px;
+}
+
+.pr25 {
+  padding-right: 25px;
+}
+
+.mt15 {
+  margin-top: 15px;
+}
+
+.hr.white {
+  background-color: white;
+}
+
+.hr.black {
+  background-color: black;
+}
+
+.sidebar {
+  width: 20%;
+}
+
+.main {
+  width: 78%;
+  margin: 0 auto;
+}
+
+.bg-black {
+  background-color: black;
+}
+
+.bg-white {
+  background-color: white;
+}
+
+.inline-block {
+  display: inline-block;
+}
+
+.vertical-top {
+  vertical-align: top;
+}
+
+.full-height {
+  height: 100%;
+}
+
+.white-text {
+  color: white;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.center-text {
+  text-align: center;
+}
+
+ul.no-style {
+  list-style: none;
+  padding-left: 0;
+}
+
+ul.inline-list > li {
+  display: inline;
+}
+
+.margin-0-auto {
+  margin: 0 auto;
+}
+
+.project {
+  display: inline-block;
+  margin: 0 auto;
+  width: 48%;
+  vertical-align: top;
+}
+
+.project p, .experience p, .projects-list p {
+  margin: 0;
+}
+
+.projects-list-container {
+  margin-top: 12px;
+}
+
+.projects-list {
+  display: inline-block;
+  margin: 0 auto;
+  width: 48%;
+  vertical-align: top;
+}
+
+.project h4, .experience h4 {
+  margin-top: 12px;
+  margin-bottom: 0px;
+}
+
+.experience h4, .project h4 {
+  margin-bottom: 3px;
+}
+
+.main h3 {
+  margin-top: 3px;
+  margin-bottom: -5px;
+}
+
+.education p {
+  margin: 0;
+}
+
+.achievements p {
+  margin: 0;
+}
