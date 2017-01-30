@@ -185,6 +185,14 @@ a {
   padding-right: 15px;
 }
 
+.mt5 {
+  margin-top: 5px;
+}
+
 h3 {
   font-size: 1.3em;
+}
+
+ul {
+  padding-left: 20px;
 }
