@@ -232,3 +232,7 @@ h3 {
 .pl0 {
   padding-left: 0px;
 }
+
+.detailed .experience p {
+  font-weight: 600;
+}
