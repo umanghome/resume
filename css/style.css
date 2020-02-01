@@ -111,6 +111,11 @@ ul.inline-list > li {
   box-sizing: border-box;
 }
 
+.project.full {
+  display: block;
+  width: 100%;
+}
+
 .project p, .experience p, .projects-list p {
   margin: 0;
 }
@@ -211,6 +216,10 @@ h3 {
 
 .pl20 {
   padding-left: 20px;
+}
+
+.pl40 {
+  padding-left: 40px;
 }
 
 .pr5 {
