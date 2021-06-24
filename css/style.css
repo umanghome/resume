@@ -245,3 +245,7 @@ h3 {
 .detailed .experience p {
   font-weight: 600;
 }
+
+.project h4 a {
+  color: inherit;
+}
